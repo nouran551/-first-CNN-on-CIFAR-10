@@ -7,4 +7,5 @@
 
 CIFAR-10 dataset contains 32x32 color images from 10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 
-[alt text](https://samyzaf.com/ML/cifar10/cifar1.jpg)
+![picture](https://samyzaf.com/ML/cifar10/cifar1.jpg)
+
